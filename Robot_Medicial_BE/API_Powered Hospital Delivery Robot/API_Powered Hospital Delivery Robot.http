@@ -1,0 +1,6 @@
+@API_Powered_Hospital_Delivery_Robot_HostAddress = http://localhost:5170
+
+GET {{API_Powered_Hospital_Delivery_Robot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
